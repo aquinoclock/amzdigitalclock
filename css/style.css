@@ -8,7 +8,7 @@ html,body{
   margin: 0px;
   overflow: hidden;
   color: #222;
-  background: #fff;
+  background: black;
 }
 
 .wrapper .display{
@@ -21,39 +21,21 @@ html,body{
   border-radius: 6px;
   text-align: center;
 }
-<<<<<<< HEAD
-
-.display{
-=======
 .display #time{
->>>>>>> bec7a169fcc7c330d2a2a94eaf08c801eeba2ef9
   
-  color: rgb(0, 0, 0);
-  font-size: 340px;
+  color: white;
+  font-size: 350px;
   font-weight: 600;
-<<<<<<< HEAD
-  text-align: center;
-  letter-spacing: 2px;
-  background: linear-gradient(yellow, red);
-=======
-  letter-spacing: 2px;
-  background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
->>>>>>> bec7a169fcc7c330d2a2a94eaf08c801eeba2ef9
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  
+  letter-spacing: 2px; 
 }
 #frase{
+  margin-top: 40px;
   color: rgb(0, 0, 0);
-  font-size: 160px;
+  font-size: 140px;
   font-weight: 600;
   letter-spacing: 2px;
   text-align: center;
-<<<<<<< HEAD
-  background: linear-gradient(135deg, red, #eb3b, black, green);
-=======
   background: linear-gradient(135deg, red, #eb3b, green);
->>>>>>> bec7a169fcc7c330d2a2a94eaf08c801eeba2ef9
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   
@@ -68,3 +50,4 @@ html,body{
 #TimeZone{
   opacity: 0;
 }
+
